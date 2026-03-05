@@ -81,7 +81,7 @@ const Experience = () => {
             <div className="w-60 h-60 md:w-72 md:h-72 rounded-full 
             bg-linear-to-r from-purple-500 to-pink-500 p-1 shadow-2xl mb-8">
               <img
-                src="images/img3.jpeg"
+                src="images/img2.jpeg"
                 alt="Experience"
                 className="w-full h-full rounded-full object-cover"
               />
